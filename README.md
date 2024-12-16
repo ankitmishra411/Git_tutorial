@@ -9,3 +9,4 @@ git remote add origin repository url  # repository in which code should be pushe
 git remote -v # to check where code is going to save or push
 git push origin main # gid push <folder> <branch>
 git restore <file name> # to restore file to previous version before adding
+git restoe --staged <file name> # remove file form stage environment
